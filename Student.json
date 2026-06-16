@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ravi",
+        "age": "20",
+        "city": "Bhopal",
+        "course": "DBMS",
+        "marks": 50
+    },
+    {
+        "name": "Aman",
+        "age": "22",
+        "city": "Rewa",
+        "course": "ML",
+        "marks": 60
+    },
+    {
+        "name": "Vikas",
+        "age": "23",
+        "city": "Dewas",
+        "course": "OS",
+        "marks": 75
+    },
+    {
+        "name": "Raj",
+        "age": "24",
+        "city": "Pune",
+        "course": "CN",
+        "marks": 80
+    }
+]
